@@ -1,4 +1,4 @@
-# Git Merge Conflicts
+git checkout# Git Merge Conflicts
 
 ## Learning Goals
 
